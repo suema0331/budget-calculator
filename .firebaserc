@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "budget-app-fa2ef": {
+      "hosting": {
+        "budget-calculator": [
+          "budget-app-fa2ef"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "budget-app": "budget-app-fa2ef"
+  }
+}
